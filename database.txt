@@ -1,0 +1,2 @@
+{"login": "Ilya", "password": "qwerty"}
+{"login": "Nikita", "password": "qwerty1"}
